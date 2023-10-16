@@ -1,0 +1,14 @@
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\bin\Debug\Digital_World.exe.config
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\bin\Debug\Digital_World.exe
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\bin\Debug\Digital_World.pdb
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\obj\Debug\Digital_World.csproj.AssemblyReference.cache
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\obj\Debug\Digital_World.csproj.CoreCompileInputs.cache
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\obj\Debug\Digital_World.exe
+C:\Users\Joao\Desktop\Projetos Dev\C# Exercicios\OO\Digital_World\obj\Debug\Digital_World.pdb
+C:\Users\J\Desktop\Dev\Digital_World\bin\Debug\Digital_World.exe.config
+C:\Users\J\Desktop\Dev\Digital_World\bin\Debug\Digital_World.exe
+C:\Users\J\Desktop\Dev\Digital_World\bin\Debug\Digital_World.pdb
+C:\Users\J\Desktop\Dev\Digital_World\obj\Debug\Digital_World.csproj.AssemblyReference.cache
+C:\Users\J\Desktop\Dev\Digital_World\obj\Debug\Digital_World.csproj.CoreCompileInputs.cache
+C:\Users\J\Desktop\Dev\Digital_World\obj\Debug\Digital_World.exe
+C:\Users\J\Desktop\Dev\Digital_World\obj\Debug\Digital_World.pdb
